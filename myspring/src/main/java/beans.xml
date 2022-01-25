@@ -4,6 +4,6 @@
 	xsi:schemaLocation="http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd">
 
 	<bean id="welcome" class="co.simplilearn.Welcome">
-		<property name="message" value="welcome to springboot:)"></property>
+		<property name="message" value="welcome to springboot Application:)"></property>
 	</bean>
 </beans>
